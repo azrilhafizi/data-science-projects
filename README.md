@@ -12,3 +12,8 @@ This repository contains a collection of data science projects and analyses that
 
 4. [TikTok Video Classification](./TikTok%20Video%20Classification/)
     - Develop a TikTok video classification system to distinguish between factual claims and subjective opinions using metadata analysis.
+
+5. [Analyzing Employee Data for Improved Retention](./Analyzing%20Employee%20Data%20for%20Improved%20Retention.ipynb)
+    - Build a robust predictive model that can accurately forecast whether an employee is likely to leave the company
+    - Analyze the data to identify the key factors that significantly influence employee attrition
+    - Provide data-driven and actionable insights to the HR department, enabling them to make informed decisions to foster a positive work environment and address employee concerns effectively
